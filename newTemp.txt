@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 ECHO is on.
+<<<<<<< Updated upstream
+=======
+My name is aadil
+=======
+this is a temporary sentence.
+this is a new temporary sentence.
+
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
