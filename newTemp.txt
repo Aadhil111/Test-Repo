@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 afa
+testing features
 ECHO is on.
 <<<<<<< Updated upstream
 =======
